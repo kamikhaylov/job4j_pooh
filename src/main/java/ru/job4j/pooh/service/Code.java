@@ -6,7 +6,6 @@ public enum Code {
     STATUS_200 ("200"),
     STATUS_204 ("204");
 
-
     private String title;
 
     Code(String title) {
